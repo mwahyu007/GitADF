@@ -1,0 +1,9 @@
+{
+	"name": "stepcADF",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25819982-b2dc-47d6-b441-01423ca94d33",
+		"tenantId": "4d237fc5-b1dd-42ef-a9e2-64887cb44b21"
+	}
+}
